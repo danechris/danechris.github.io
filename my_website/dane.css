@@ -1,0 +1,14 @@
+body{
+	background-color:grey;
+	font-family: "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
+	color: #ffffcc;
+	background-image: url("images/motorcycle.jpg");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align:center
+    font-family: "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
+    color:white;
+}
