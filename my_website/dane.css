@@ -1,14 +1,52 @@
 body{
-	background-color:grey;
-	font-family: "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
-	color: #ffffcc;
-	background-image: url("images/motorcycle.jpg");
-	background-size: 100% 100%;
+    	background-color:white;
+    	font-family: "Trajan", Trajan, "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
+    	color: #ffffcc;
+    	background-image: url("images/sunset.jpg");
+    	background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 h1{
-    text-align:center
-    font-family: "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
+    font-family: "Arial Gothic", ArialGothic, "MS PGothic", MSPGothic, "MS Gothic", MSGothic "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
     color:white;
+    text-align:center;
 }
+a:link, a:visited {
+    background-color: #9a9da1;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    color: yellow;
+    background-color: blue;
+}
+table {
+	
+	width:80%;
+	margin-left: 2px;
+	margin-right: 2px;
+	text-align: center;
+	
+}
+
+td {
+	vertical-align: middle;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color: #9a9da1; 
+}
+
+th {
+	text-align: center;
+	color: #000000;
+	background-color: #cbbeb5;
+}
+
