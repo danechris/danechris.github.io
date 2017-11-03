@@ -1,7 +1,7 @@
 body{
     	background-color:white;
     	font-family: "Trajan", Trajan, "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
-    	color: #ffffcc;
+    	color: #000000;
     	background-image: url("images/sunset.jpg");
     	background-size: 100%;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@ body{
 
 h1{
     font-family: "Arial Gothic", ArialGothic, "MS PGothic", MSPGothic, "MS Gothic", MSGothic "Optima", Optima, "Arial", Arial, "Sabon", Sabon, sans-serif;
-    color:white;
+    color:navy;
     text-align:center;
 }
 a:link, a:visited {
@@ -36,6 +36,7 @@ table {
 
 td {
 	vertical-align: middle;
+	color:#000000;
 }
 
 tr {
@@ -47,6 +48,5 @@ tr {
 th {
 	text-align: center;
 	color: #000000;
-	background-color: #cbbeb5;
 }
 
